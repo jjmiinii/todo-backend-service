@@ -24,6 +24,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[TypeORM](https://typeorm.io/) TypeScript ORM for building scalable and data-driven applications.
 
 ## Project setup
 
