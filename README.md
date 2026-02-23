@@ -40,11 +40,11 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
+# production mode [DEV ONLY]
 $ npm run start:prod
 ```
 
-## Run tests
+## Run tests [NOT YET READY]
 
 ```bash
 # unit tests
